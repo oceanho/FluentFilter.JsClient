@@ -1,2 +1,2 @@
-# FluentFilter.JSClient
-This is javascript library of the FluentFilter
+# FluentFilter.JsClient
+This is a javascript library of the FluentFilter
